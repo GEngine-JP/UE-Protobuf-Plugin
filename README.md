@@ -1,6 +1,6 @@
 ### What is this?
 
-This is an Unreal Engine 4 plugin that integrates [Protobuf](https://github.com/protocolbuffers/protobuf) into the project without requiring you to add system PATH or anything else.
+This is an Unreal Engine plugin that integrates [Protobuf](https://github.com/protocolbuffers/protobuf) into the project without requiring you to add system PATH or anything else.
 
 ### How do use?
 
